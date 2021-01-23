@@ -1,0 +1,87 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> Biochar Star</title >
+  </head>
+  <body>
+    <p>Biochar Star <em> Your carbon neutral soil amendment <em/></p>
+    <p>
+     <strong> Raimund Bayan Ph.d Ph.d </strong>
+     <br> 4425 Stone Wynde Drive
+     <br> Louisville, Ky 40272
+    </p>
+SowGrow eliminates the need for expensive fertilizers that contain harmful chemicals.  
+Users can enjoy the fruits of their labor knowing that their soil is rich in nutrients
+ and sustainable. 
+
+
+
+
+SowGrow offers unique individual characteristics that will attract consumers:
+
+ Organic-Provides a soil supplement with no added chemicals
+
+
+   Nutrient Aiding-Give plants extra nutrients for increased growth and development
+
+
+   Versatility-Can be applied to any plant or crop
+
+
+   Easy to Use-Simplifies application and use of product
+
+
+   Environmentally Friendly-Contributes to the green initiave in reducing carbon footprint
+
+
+
+Statement
+
+
+Organic Roots striveMission s to create sustainable, organic, and environmentally friendly soil and farming supplements.   By providing environmentally safe and beneficial products, we look to create a positive earth friendly trend for customers to follow.
+
+Vision Statement
+
+
+The vision of Organic Roots is to lead the biochar market and research the possibilities of other environmentally safe and sustainable soil supplements.
+
+Benefit
+Provides a soil supplement with no added chemicals.
+Gives plants extra nutrients for increased growth and development.
+Can be applied to any plant or crop.
+Simple application and use.
+Contributes to the green initiative by reducing carbon footprint.
+
+
+
+Benefit
+Provides a soil supplement with no added chemicals.
+Gives plants extra nutrients for increased growth and development.
+Can be applied to any plant or crop.
+Simple application and use.
+Contributes to the green initiative by reducing carbon footprint.
+<form action="index.html" method="post">
+
+      <fieldset>
+        <legend>Tell us about yourself</legend>
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="user_name">
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="user_email">
+      </fieldset>
+
+      <fieldset>
+        <legend>What's on your mind?</legend>
+        <label for="comment">Comment:</label>
+        <textarea id="comment" name="user_comment"></textarea>
+      </fieldset>
+
+      <button type="submit">Submit Comment</button>
+
+</form>
+
+  </body>
+</html>
+
+
